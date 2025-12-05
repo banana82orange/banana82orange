@@ -13,11 +13,16 @@
 ---
 
 ## ทักษะ (Skills)
-- Embedded Systems: ESP32, STM32, PLC  
-- Robotics & Motion Control  
-- Computer Vision: YOLO, Image Processing  
-- Full-Stack Development: Frontend (React/Vue), Backend (Node.js/Python/Golang), Database, API Integration  
-- Python UI Development (Raspberry Pi)  
+### **Embedded / Robotics**
+- ESP32, STM32, PLC, Python, Raspberry Pi
+
+### **Full-Stack Development**
+- **Frontend:** React, Vue, TailwindCSS ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+- **Backend:** Node.js, Python, Golang, TypeScript ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+- **Database:** PostgreSQL ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+### **Programming Languages**
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
 ---
 
