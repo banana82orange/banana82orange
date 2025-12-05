@@ -38,4 +38,4 @@
 ## ติดต่อ (Contact)
 - Personal Portfolio: [www.bank.com](http://www.bank.com)  
 - GitHub: [https://github.com/banana82orange](https://github.com/banana82orange)  
-- Email: example@email.com
+- Email: jirawat.kri@ku.th
