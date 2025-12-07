@@ -13,43 +13,51 @@
 ---
 
 ## ทักษะ (Skills)
-
-- 
-### **Full-Stack Development**
-- **Frontend:** 
-  React ![React](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@latest/icons/react.svg)  
-  Vite ![Vite](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@latest/icons/vite.svg)  
-  TailwindCSS ![TailwindCSS](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@latest/icons/tailwindcss.svg)  
-- **Backend:** 
-  Node.js ![Node.js](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@latest/icons/nodejs.svg)  
-  Python ![Python](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@latest/icons/python.svg)  
-  Golang ![Golang](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@latest/icons/go.svg)  
-  TypeScript ![TypeScript](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@latest/icons/typescript.svg)  
-- **Database:** 
-  PostgreSQL ![PostgreSQL](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@latest/icons/postgresql.svg)  
-
 ### **Programming Languages**
-C ![C](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@latest/icons/c.svg)  
-C++ ![C++](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@latest/icons/cplusplus.svg)  
-Python ![Python](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@latest/icons/python.svg)  
+[![Languages](https://skillicons.dev/icons?i=c,cpp,ts,python,go,html,css,javascript&theme=light)](https://skillicons.dev)
+<br>
+C/C++ ,TypeScript ,Python, Golang ,HTML ,CSS ,JavaScript ,SQL  
+
+### **Frontend**
+[![Frontend Skills](https://skillicons.dev/icons?i=react,vite,tailwindcss&theme=light)](https://skillicons.dev)
+<br>
+React, Vite, TailwindCSS  
+
+### **Backend / Auth**
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,gin,jwt,oauth&theme=light)](https://skillicons.dev)
+<br>
+Node.js, Express.js, Gin, JWT, OAuth2  
+
+### **Database**
+[![Database](https://skillicons.dev/icons?i=postgresql&theme=light)](https://skillicons.dev)
+<br>
+PostgreSQL  
+
+### **Tools / DevOps**
+Docker Docker Compose Postman NPM  
+[![Tools](https://skillicons.dev/icons?i=docker,postman&theme=light)](https://skillicons.dev)
+
+
+
 
 
 ### **Embedded / Robotics**
 - ESP32, STM32, PLC, Python, Raspberry Pi
+
+
 ---
 
 ## โครงการเด่น (Projects)
-
-### Full-Stack Personal Projects
-- พัฒนาระบบเว็บและแอปพลิเคชันครบวงจร  
-- ครอบคลุม **Frontend, Backend, Database, API integration**  
-- เป็นโปรเจคส่วนตัวที่พัฒนาขึ้นเอง [GitHub link](https://github.com/banana82orange)  
 
 ### Robotics & Embedded Systems
 1. **Robotic Control System** – หุ่นยนต์ 4-axis pallet robot และ 6-axis robotic arm ทำงานอัตโนมัติด้วย motion control + computer vision  
 2. **Raspberry Pi Control UI** – พัฒนา UI สำหรับควบคุมหุ่นยนต์แบบเรียลไทม์  
 3. **Object Detection & Speed Analysis** – ใช้ YOLO ตรวจจับวัตถุและคำนวณความเร็วของรถ  
 
+### Full-Stack Personal Projects
+- พัฒนาระบบเว็บและแอปพลิเคชันครบวงจร  
+- ครอบคลุม **Frontend, Backend, Database, API integration**  
+- เป็นโปรเจคส่วนตัวที่พัฒนาขึ้นเอง [GitHub link](https://github.com/banana82orange)  
 
 ---
 
