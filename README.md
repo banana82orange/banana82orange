@@ -1,6 +1,6 @@
 # สวัสดีครับ 👋 ผมจิระวัฒน์
 
-**Personal Portfolio:** [www.bank.com](http://www.bank.com)  
+**Personal Portfolio:** [https://banana82orange.github.io/portfolio](https://banana82orange.github.io/portfolio)
 **GitHub:** [https://github.com/banana82orange](https://github.com/banana82orange) *(โปรเจคส่วนตัว Full-Stack Development)*
 
 ---
