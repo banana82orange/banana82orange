@@ -1,8 +1,7 @@
 # สวัสดีครับ 👋 ผมจิระวัฒน์
 
 **Personal Portfolio:** [https://banana82orange.github.io/portfolio](https://banana82orange.github.io/portfolio)  </br>
-**GitHub:** [https://github.com/banana82orange](https://github.com/banana82orange) *(โปรเจคส่วนตัว Full-Stack Development)*
-
+**GitHub:** [โปรเจคส่วนตัว Full-Stack Development](#featured-projects)
 ---
 
 ## เกี่ยวกับผม
@@ -57,7 +56,12 @@ Docker Docker Compose Postman NPM
 ### Full-Stack Personal Projects
 - พัฒนาระบบเว็บและแอปพลิเคชันครบวงจร  
 - ครอบคลุม **Frontend, Backend, Database, API integration**  
-- เป็นโปรเจคส่วนตัวที่พัฒนาขึ้นเอง [GitHub link](https://github.com/banana82orange)  
+- เป็นโปรเจคส่วนตัวที่พัฒนาขึ้นเอง 
+## Featured Projects
+[GitHub link](https://github.com/banana82orange/topcar-project)
+[GitHub link](https://github.com/banana82orange/ecom-mini)
+[GitHub link](https://github.com/banana82orange/travel-web)
+[GitHub link](https://github.com/banana82orange/node-ts-api-gateway)
 
 ---
 
