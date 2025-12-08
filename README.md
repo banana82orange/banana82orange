@@ -62,6 +62,5 @@ Docker Docker Compose Postman NPM
 ---
 
 ## ติดต่อ (Contact)
-- Personal Portfolio: [www.bank.com](http://www.bank.com)  
 - GitHub: [https://github.com/banana82orange](https://github.com/banana82orange)  
 - Email: jirawat.kri@ku.th
