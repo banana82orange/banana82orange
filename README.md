@@ -46,7 +46,7 @@ Docker Docker Compose Postman NPM
 
 ---
 
-## โครงการเด่น (Projects)
+## โครงการที่เคยทำ (Projects)
 
 ### Robotics & Embedded Systems
 1. **Robotic Control System** – หุ่นยนต์ 4-axis pallet robot และ 6-axis robotic arm ทำงานอัตโนมัติด้วย motion control + computer vision  
