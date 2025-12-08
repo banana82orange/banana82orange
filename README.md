@@ -58,10 +58,12 @@ Docker Docker Compose Postman NPM
 - ครอบคลุม **Frontend, Backend, Database, API integration**  
 - เป็นโปรเจคส่วนตัวที่พัฒนาขึ้นเอง 
 ## Featured Projects
-[GitHub link](https://github.com/banana82orange/topcar-project)
-[GitHub link](https://github.com/banana82orange/ecom-mini)
-[GitHub link](https://github.com/banana82orange/travel-web)
-[GitHub link](https://github.com/banana82orange/node-ts-api-gateway)
+| Project | Description | Link |
+|--------|-------------|------|
+| **Topcar Project** | ระบบเว็บสำหรับบริหารรถยนต์(เช่า+ขาย) + API + Admin Dashboard + GPS | 🔗 [GitHub](https://github.com/banana82orange/topcar-project) |
+| **Ecom-Mini** | ระบบ E-Commerce ครบฟีเจอร์: Auth, Cart, Order, Payment | 🔗 [GitHub](https://github.com/banana82orange/ecom-mini) |
+| **Travel Web** | เว็บท่องเที่ยว Full-Stack พร้อมระบบจอง | 🔗 [GitHub](https://github.com/banana82orange/travel-web) |
+| **Node TS API Gateway** | ตัวอย่าง Microservices + API Gateway ด้วย TypeScript | 🔗 [GitHub](https://github.com/banana82orange/node-ts-api-gateway) |
 
 ---
 
