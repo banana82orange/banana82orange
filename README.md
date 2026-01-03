@@ -1,4 +1,4 @@
-# สวัสดีครับ 👋 ผมจิระวัฒน์
+# สวัสดีครับ 👋 ผมจิระวัฒน์ กฤตมาทรัพย์
 
 **Personal Portfolio:** [https://banana82orange.github.io/portfolio](https://banana82orange.github.io/portfolio)  </br>
 **GitHub:** [โปรเจคส่วนตัว Full-Stack Development](#featured-projects)
