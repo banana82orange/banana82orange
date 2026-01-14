@@ -63,6 +63,7 @@ Docker Docker Compose Postman NPM
 | **Topcar Project** | ระบบเว็บสำหรับบริหารรถยนต์(เช่า+ขาย) + API + Admin Dashboard + GPS | 🔗 [GitHub](https://github.com/banana82orange/topcar-project) |
 | **Ecom-Mini** | ระบบ E-Commerce ครบฟีเจอร์: Auth, Cart, Order, Payment | 🔗 [GitHub](https://github.com/banana82orange/ecom-mini) |
 | **Travel Web** | เว็บท่องเที่ยว Full-Stack พร้อมระบบจอง | 🔗 [GitHub](https://github.com/banana82orange/travel-web) |
+| **Rag-llm** | RAG Assistant with Go | 🔗 [GitHub](https://github.com/banana82orange/rag-llm-golang) |
 | **Node TS API Gateway** | ตัวอย่าง Microservices + API Gateway ด้วย TypeScript | 🔗 [GitHub](https://github.com/banana82orange/node-ts-api-gateway) |
 
 ---
